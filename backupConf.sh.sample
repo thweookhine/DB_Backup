@@ -1,0 +1,3 @@
+MONGO_URI=yourmongouri
+DATABASE_NAME=yourdb
+BACKUP_DIR="./mongo_backups/lyrics_db_$(date +%F_%H-%M-%S)"
